@@ -78,6 +78,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -293,6 +294,7 @@
 | [3193-count-the-number-of-inversions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -420,6 +422,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -487,6 +490,7 @@
 | [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -556,6 +560,7 @@
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,4 +590,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
