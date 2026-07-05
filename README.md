@@ -35,6 +35,7 @@
 | [1051-height-checker](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -286,6 +287,7 @@
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -330,6 +332,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0221-maximal-square/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
