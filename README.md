@@ -110,6 +110,7 @@
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -288,6 +289,7 @@
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0338-counting-bits/) | Easy |
+| [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
