@@ -20,6 +20,7 @@
 | [0221-maximal-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0221-maximal-square/) | Medium |
 | [0228-summary-ranges](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0274-h-index](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0274-h-index/) | Medium |
+| [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0414-third-maximum-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
@@ -285,6 +286,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0221-maximal-square/) | Medium |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
+| [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -473,6 +475,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
