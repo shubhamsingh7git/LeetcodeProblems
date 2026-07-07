@@ -113,6 +113,7 @@
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -476,6 +477,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0200-number-of-islands/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -485,6 +487,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
