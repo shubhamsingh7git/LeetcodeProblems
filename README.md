@@ -433,6 +433,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0278-first-bad-version/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -621,4 +622,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
