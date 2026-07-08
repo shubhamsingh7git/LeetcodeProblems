@@ -32,6 +32,7 @@
 | [0705-design-hashset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0706-design-hashmap/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0896-monotonic-array/) | Easy |
@@ -438,6 +439,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0493-reverse-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
