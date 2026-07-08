@@ -113,6 +113,7 @@
 | [0231-power-of-two](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
+| [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
@@ -634,4 +635,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0278-first-bad-version/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
