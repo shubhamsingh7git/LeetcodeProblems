@@ -83,6 +83,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -238,6 +239,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -395,6 +397,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -468,6 +471,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Memoization
@@ -612,6 +616,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
