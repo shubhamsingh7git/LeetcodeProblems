@@ -344,6 +344,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -403,6 +404,7 @@
 | [0227-basic-calculator-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0290-word-pattern](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0290-word-pattern/) | Easy |
 | [0306-additive-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0306-additive-number/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0383-ransom-note](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -443,6 +445,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -657,4 +660,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0306-additive-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0306-additive-number/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
