@@ -21,6 +21,7 @@
 | [0228-summary-ranges](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0228-summary-ranges/) | Easy |
 | [0274-h-index](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0289-game-of-life/) | Medium |
+| [0313-super-ugly-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -115,6 +116,7 @@
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
+| [0313-super-ugly-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0313-super-ugly-number/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
@@ -306,6 +308,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0221-maximal-square/) | Medium |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
+| [0313-super-ugly-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
