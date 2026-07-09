@@ -117,6 +117,7 @@
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
 | [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0313-super-ugly-number](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0313-super-ugly-number/) | Medium |
+| [0319-bulb-switcher](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
@@ -652,6 +653,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0319-bulb-switcher/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
