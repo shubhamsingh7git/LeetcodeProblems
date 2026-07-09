@@ -98,6 +98,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3866-first-unique-even-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3866-first-unique-even-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3866-first-unique-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1603-design-parking-system/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3866-first-unique-even-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3866-first-unique-even-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
