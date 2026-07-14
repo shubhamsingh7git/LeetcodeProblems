@@ -82,6 +82,7 @@
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
@@ -142,6 +143,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -163,6 +165,7 @@
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +339,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3193-count-the-number-of-inversions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3193-count-the-number-of-inversions/) | Hard |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
