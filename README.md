@@ -104,6 +104,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3866-first-unique-even-element](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3866-first-unique-even-element/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +152,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +296,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +370,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
