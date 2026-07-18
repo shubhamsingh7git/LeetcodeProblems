@@ -63,6 +63,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1912-design-movie-rental-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1912-design-movie-rental-system/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2293-min-max-game](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2293-min-max-game/) | Easy |
@@ -142,6 +143,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1840-maximum-building-height](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -169,6 +171,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
