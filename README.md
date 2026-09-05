@@ -109,6 +109,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
