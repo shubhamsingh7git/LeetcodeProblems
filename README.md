@@ -345,6 +345,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0062-unique-paths/) | Medium |
+| [0115-distinct-subsequences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0221-maximal-square/) | Medium |
 | [0264-ugly-number-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0264-ugly-number-ii/) | Medium |
@@ -445,6 +446,7 @@
 | [0013-roman-to-integer](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
+| [0115-distinct-subsequences](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0205-isomorphic-strings/) | Easy |
