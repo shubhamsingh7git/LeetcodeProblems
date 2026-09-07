@@ -355,6 +355,7 @@
 | [0343-integer-break](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0343-integer-break/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -462,6 +463,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0771-jewels-and-stones](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0771-jewels-and-stones/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1189-maximum-number-of-balloons/) | Easy |
