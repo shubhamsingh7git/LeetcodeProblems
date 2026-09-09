@@ -161,6 +161,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Enumeration
 |  |
