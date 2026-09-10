@@ -563,6 +563,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -605,6 +606,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Linked List
@@ -686,6 +688,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Iterator
 |  |
 | ------- |
