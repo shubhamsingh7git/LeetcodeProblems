@@ -87,6 +87,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -169,6 +170,7 @@
 | [0204-count-primes](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Number Theory
@@ -192,6 +194,7 @@
 | [0326-power-of-three](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0342-power-of-four/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3242-design-neighbor-sum-service](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3242-design-neighbor-sum-service/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3484-design-spreadsheet/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
