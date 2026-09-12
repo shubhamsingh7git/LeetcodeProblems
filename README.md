@@ -85,6 +85,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -309,6 +310,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -370,6 +372,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3193-count-the-number-of-inversions](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3193-count-the-number-of-inversions/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -523,6 +526,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
