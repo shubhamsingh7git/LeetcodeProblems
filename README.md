@@ -48,6 +48,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1472-design-browser-history/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -261,6 +262,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1396-design-underground-system](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1396-design-underground-system/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1797-design-authentication-manager](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1797-design-authentication-manager/) | Medium |
@@ -367,6 +369,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -523,6 +526,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -713,6 +717,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhamsingh7git/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Shortest Path
 |  |
 | ------- |
